@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "user-avatar-1",
+      "description": "User avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1710974481447-fb001ad9ad5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwZXJzb24lMjBmYWNlfGVufDB8fHx8MTc2MjQyMTc3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person face"
+    },
+    {
+      "id": "dashboard-hero",
+      "description": "Empowered woman looking at a bright future",
+      "imageUrl": "https://images.unsplash.com/photo-1567333243998-f726b9125de5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3b21hbiUyMGZ1dHVyZXxlbnwwfHx8fDE3NjI0ODIwNzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman future"
+    },
+    {
+      "id": "career-card",
+      "description": "Person working on a laptop",
+      "imageUrl": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxsYXB0b3AlMjB3b3JrfGVufDB8fHx8MTc2MjQ1NDQ1M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "laptop work"
+    },
+    {
+      "id": "job-card",
+      "description": "A sign that says 'Dream Job' on a desk",
+      "imageUrl": "https://images.unsplash.com/photo-1521791136064-7986c2920216?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxqb2IlMjBtb3RpdmF0aW9ufGVufDB8fHx8MTc2MjQ5OTQxOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dream job"
+    },
+    {
+      "id": "scholarship-card",
+      "description": "A student celebrating graduation",
+      "imageUrl": "https://images.unsplash.com/photo-1625993424124-814a04d13794?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzdHVkZW50JTIwZ3JhZHVhdGlvbnxlbnwwfHx8fDE3NjI3NDk0Njl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "student graduation"
+    },
+    {
+      "id": "safety-card",
+      "description": "A shield icon on a vibrant background",
+      "imageUrl": "https://images.unsplash.com/photo-1761805364333-3fe4285de824?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzZWN1cml0eSUyMHNoaWVsZHxlbnwwfHx8fDE3NjIzOTc1ODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "security shield"
+    },
+    {
+      "id": "community-card",
+      "description": "People talking in a group",
+      "imageUrl": "https://images.unsplash.com/photo-1651514645899-de1cadd1ec31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjb21tdW5pdHklMjBncm91cHxlbnwwfHx8fDE3NjI0ODIwNzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "community group"
+    },
+    {
+      "id": "anonymous-avatar",
+      "description": "Anonymous user avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1482053450283-3e0b78b09a70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YWJzdHJhY3QlMjBwYXR0ZXJufGVufDB8fHx8MTc2MjQ3NTA3MXww&ixlibrb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract pattern"
+    },
+    {
+      "id": "welcome-girls",
+      "description": "A diverse group of happy young girls smiling",
+      "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkaXZlcnNlJTIwZ2lybHMlMjBoYXBweXxlbnwwfHx8fDE3NjM0NTUwMTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "diverse girls"
+    }
+  ]
+}
